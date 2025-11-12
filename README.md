@@ -3,7 +3,7 @@
 Global Life Expectancy Analysis — Project Description
 Problem Statement
 Many countries invest heavily in healthcare but still experience low life expectancy. This project aims to identify key factors influencing life expectancy worldwide — such as GDP, immunization rates, education, and healthcare spending — and highlight countries performing above or below expectations.
-The goal is to help policymakers and organizations make data-driven health investment decisions.
+The goal is to help policymakers and organizations make data-driven health investment decisions. view website in https://life-insight-explorer.lovable.app/
 ________________________________________
 Tools & Methods
 python
